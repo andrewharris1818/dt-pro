@@ -1,0 +1,4 @@
+i have creatd and account
+made a repo
+cloned the repo and am now editing this very text file to send back to git hub
+
